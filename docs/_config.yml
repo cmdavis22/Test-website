@@ -1,7 +1,7 @@
 # Setup
-title:               Wisconsin Autism Data Science Initiative
+title:               (Title))
 tagline:             #'(subtitle)'
-description:         'ADSI at UW-Madison'
+description:         'Title'
 url:                 https://cmdavis22.github.io
 baseurl:             '/test-website'
 paginate:            5
