@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Wisconsin Autism Data Science Initiative</title>
- <link href="http://localhost:4000/lanyon-test-website/atom.xml" rel="self"/>
- <link href="http://localhost:4000/lanyon-test-website/"/>
- <updated>2026-04-22T13:56:32-06:00</updated>
+ <title>(Title))</title>
+ <link href="http://localhost:4000/test-website/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/test-website/"/>
+ <updated>2026-04-22T14:17:30-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -16,7 +16,7 @@
    <title>More info coming soon!</title>
    <link href="http://localhost:4000/2026/04/22/coming-soon/"/>
    <updated>2026-04-22T00:00:00-06:00</updated>
-   <id>http://localhost:4000/lanyon-test-website/2026/04/22/coming-soon</id>
+   <id>http://localhost:4000/test-website/2026/04/22/coming-soon</id>
    <content type="html">
 </content>
  </entry>
